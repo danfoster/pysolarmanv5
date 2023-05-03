@@ -1,3 +1,5 @@
+*Note:* This project is a placeholder for unreleased versions of the upstream project. Please see https://pypi.org/project/pysolarmanv5/ for the upstream project.
+
 # pysolarmanv5
 
 This is a Python module to interact with Solarman (IGEN-Tech) v5 based solar
